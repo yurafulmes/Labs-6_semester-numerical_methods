@@ -1,0 +1,11 @@
+E:\6_SEMESTER\NUMERICAL_METHODS\Labs\Lab_5\Lab_5\bin\Debug\netcoreapp2.1\Lab_5.deps.json
+E:\6_SEMESTER\NUMERICAL_METHODS\Labs\Lab_5\Lab_5\bin\Debug\netcoreapp2.1\Lab_5.runtimeconfig.json
+E:\6_SEMESTER\NUMERICAL_METHODS\Labs\Lab_5\Lab_5\bin\Debug\netcoreapp2.1\Lab_5.runtimeconfig.dev.json
+E:\6_SEMESTER\NUMERICAL_METHODS\Labs\Lab_5\Lab_5\bin\Debug\netcoreapp2.1\Lab_5.dll
+E:\6_SEMESTER\NUMERICAL_METHODS\Labs\Lab_5\Lab_5\obj\Debug\netcoreapp2.1\Lab_5.csprojAssemblyReference.cache
+E:\6_SEMESTER\NUMERICAL_METHODS\Labs\Lab_5\Lab_5\obj\Debug\netcoreapp2.1\Lab_5.csproj.CoreCompileInputs.cache
+E:\6_SEMESTER\NUMERICAL_METHODS\Labs\Lab_5\Lab_5\obj\Debug\netcoreapp2.1\Lab_5.AssemblyInfoInputs.cache
+E:\6_SEMESTER\NUMERICAL_METHODS\Labs\Lab_5\Lab_5\obj\Debug\netcoreapp2.1\Lab_5.AssemblyInfo.cs
+E:\6_SEMESTER\NUMERICAL_METHODS\Labs\Lab_5\Lab_5\bin\Debug\netcoreapp2.1\Lab_5.pdb
+E:\6_SEMESTER\NUMERICAL_METHODS\Labs\Lab_5\Lab_5\obj\Debug\netcoreapp2.1\Lab_5.dll
+E:\6_SEMESTER\NUMERICAL_METHODS\Labs\Lab_5\Lab_5\obj\Debug\netcoreapp2.1\Lab_5.pdb
